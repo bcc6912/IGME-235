@@ -1,0 +1,17 @@
+h1 { 
+    color:darkolivegreen;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 4px solid darkgreen;
+    }
+h2, h3 {
+    color: darkolivegreen;
+    font-family: sans-serif;
+    border-bottom: 2px solid darkgreen;
+}
+p, li, blockquote {
+    font-family: sans-serif;
+}
+blockquote { 
+    background-color: lightgrey;
+    padding: 1rem;
+    }
